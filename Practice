@@ -1,0 +1,29 @@
+<!doctype html>
+   <head>
+   <Title>Practice with Boxes</Title> <!-- shows up on browser tab-->
+
+<link href="css/StyleSheet.css"rel="stylesheet"/>
+ </head>
+
+  <body>
+<!-- This is a comment. This is my Boxes Document -->
+<div class="box-1">Box 1
+  <div class="sub-box-1">Sub Box 1</div>
+</div>
+
+<div class="box-2">Box 2
+  <div class="sub-box-2">Sub Box 2</div>
+  <div class="sub-box-3">Sub Box 3</div>
+</div>
+
+<div class="box-3">Box 3
+     <div></div>
+</div>
+
+<div class="box-4">Box 4</div>
+
+<footer></footer>
+
+  </body>
+
+</html>
